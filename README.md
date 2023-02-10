@@ -30,8 +30,9 @@ compared to images with the same/ uniform background. I have achieved 70% accura
 the mentioned external dataset. Below is the performance of models built in
 this project in terms of accuracy score
 
-Model         Validation   Test 
-AlexNet       94.1         79.2
-VGG16         89.9         78.5
-DenseNet121   91.1         75.8
-ResNet18      99.8         89.3
+| Model       | Validation | Test |
+|-------------|------------|------|
+| AlexNet     | 94.1       | 79.2 |
+| VGG16       | 89.9       | 78.5 |
+| DenseNet121 | 91.1       | 75.8 |
+| ResNet18    | 99.8       | 89.3 |
